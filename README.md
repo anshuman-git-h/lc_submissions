@@ -40,4 +40,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
