@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshuman-git-h/lc_submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshuman-git-h/lc_submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshuman-git-h/lc_submissions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3640-trionic-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3640-trionic-array-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshuman-git-h/lc_submissions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshuman-git-h/lc_submissions/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3640-trionic-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3640-trionic-array-ii/) | Hard |
