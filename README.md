@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3640-trionic-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3640-trionic-array-ii/) | Hard |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshuman-git-h/lc_submissions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -45,11 +46,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshuman-git-h/lc_submissions/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3640-trionic-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3640-trionic-array-ii/) | Hard |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshuman-git-h/lc_submissions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
