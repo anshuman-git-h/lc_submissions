@@ -113,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anshuman-git-h/lc_submissions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 <!---LeetCode Topics End-->
