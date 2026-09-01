@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3640-trionic-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3640-trionic-array-ii/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshuman-git-h/lc_submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -120,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anshuman-git-h/lc_submissions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
