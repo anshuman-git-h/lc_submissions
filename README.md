@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshuman-git-h/lc_submissions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
