@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anshuman-git-h/lc_submissions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshuman-git-h/lc_submissions/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anshuman-git-h/lc_submissions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anshuman-git-h/lc_submissions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
