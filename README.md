@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/anshuman-git-h/lc_submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/anshuman-git-h/lc_submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshuman-git-h/lc_submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/anshuman-git-h/lc_submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/anshuman-git-h/lc_submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshuman-git-h/lc_submissions/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
