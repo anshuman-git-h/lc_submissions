@@ -12,28 +12,23 @@
 struct node{
     int sm,cnt,ans;
 };
-
-node fun(TreeNode* root)
+node* fun(TreeNode* root)
 {
-    int smm = 0;
-    int cntt = 0;
-    int anss = 0;
-    if(!root)return {smm,cntt,anss};
+    struct node* anss = new node(0,0,0);
+    if(!root)return anss;
+    struct node* le = fun(root->left);
+    struct node* ri = fun(root->right);
 
-    node le = fun(root->left);
-    node ri = fun(root->right);
-
-    smm = le.sm + ri.sm + root->val;
-    cntt = le.cnt + ri.cnt + 1;
-    anss = le.ans + ri.ans;
-    if(smm /cntt == root->val)anss++;
-
-    return {smm,cntt,anss};
+    anss->sm = le->sm + ri->sm + root->val;
+    anss->cnt = le->cnt + ri->cnt + 1;
+    anss->ans = le->ans+ri->ans;
+    if(anss->sm/anss->cnt == root->val)anss->ans++;
+    return anss;
 }
 class Solution {
 public:
     int averageOfSubtree(TreeNode* root) {
-        node res = fun(root);
-        return res.ans;
+        struct node* anss = fun(root);
+        return anss->ans;
     }
 };
