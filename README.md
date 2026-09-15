@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anshuman-git-h/lc_submissions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
+| [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshuman-git-h/lc_submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/anshuman-git-h/lc_submissions/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshuman-git-h/lc_submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/anshuman-git-h/lc_submissions/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshuman-git-h/lc_submissions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -155,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -206,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
