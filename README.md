@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anshuman-git-h/lc_submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anshuman-git-h/lc_submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/anshuman-git-h/lc_submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshuman-git-h/lc_submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshuman-git-h/lc_submissions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -235,4 +238,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anshuman-git-h/lc_submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anshuman-git-h/lc_submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
