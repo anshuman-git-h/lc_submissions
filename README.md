@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/anshuman-git-h/lc_submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0835-image-overlap](https://github.com/anshuman-git-h/lc_submissions/tree/main/0835-image-overlap/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0115-distinct-subsequences](https://github.com/anshuman-git-h/lc_submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/anshuman-git-h/lc_submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshuman-git-h/lc_submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshuman-git-h/lc_submissions/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -224,4 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
