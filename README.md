@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshuman-git-h/lc_submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 ## Array
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anshuman-git-h/lc_submissions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/anshuman-git-h/lc_submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshuman-git-h/lc_submissions/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshuman-git-h/lc_submissions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anshuman-git-h/lc_submissions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
@@ -119,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshuman-git-h/lc_submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshuman-git-h/lc_submissions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -132,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anshuman-git-h/lc_submissions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/anshuman-git-h/lc_submissions/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
