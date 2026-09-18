@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anshuman-git-h/lc_submissions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anshuman-git-h/lc_submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/anshuman-git-h/lc_submissions/tree/main/0835-image-overlap/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/anshuman-git-h/lc_submissions/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshuman-git-h/lc_submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
@@ -127,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshuman-git-h/lc_submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshuman-git-h/lc_submissions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -173,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Queue
@@ -196,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/anshuman-git-h/lc_submissions/tree/main/1443-minimum-time-to-collect-all-apples-in-a-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/anshuman-git-h/lc_submissions/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -246,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anshuman-git-h/lc_submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
