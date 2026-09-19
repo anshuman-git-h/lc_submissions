@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/anshuman-git-h/lc_submissions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anshuman-git-h/lc_submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/anshuman-git-h/lc_submissions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anshuman-git-h/lc_submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
