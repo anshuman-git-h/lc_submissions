@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<string> maxNumOfSubstrings(string s) {
         int n = s.size();
-        map<char,pair<int,int>> mp;
+        unordered_map<char,pair<int,int>> mp;
         for(char c = 'a';c<='z';c++)
         {
             int f = -1;
