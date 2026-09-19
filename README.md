@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshuman-git-h/lc_submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/anshuman-git-h/lc_submissions/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -250,11 +252,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anshuman-git-h/lc_submissions/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
+| [2360-longest-cycle-in-a-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
+| [2360-longest-cycle-in-a-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,4 +283,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anshuman-git-h/lc_submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 <!---LeetCode Topics End-->
