@@ -13,16 +13,16 @@ public:
 
         vector<int> dis(n,1e9);
 
-        priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
+        queue<vector<int>> pq;
 
         pq.push({0,0,src});//stops,cost,node
         dis[src] = 0;
         while(!pq.empty())
         {
-            auto it = pq.top();
+            auto it = pq.front();
             pq.pop();
-            int stops = it[0];
-            int cost = it[1];
+            int cost = it[0];
+            int stops = it[1];
             int u = it[2];
             if(stops > k)continue;
             for(auto [v,w]: adj[u])
@@ -30,7 +30,7 @@ public:
                 if(dis[v] > cost + w)
                 { 
                     dis[v] = cost + w;
-                    pq.push({stops + 1,cost + w,v});
+                    pq.push({cost + w,stops + 1,v});
                 }
             }
         }
