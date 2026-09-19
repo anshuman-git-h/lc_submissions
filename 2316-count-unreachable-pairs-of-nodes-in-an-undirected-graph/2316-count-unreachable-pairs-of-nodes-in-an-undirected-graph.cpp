@@ -46,7 +46,7 @@ public:
         }
         long long ans = 0;
 
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         for(int i = 0;i<n;i++)mp[cmp[i]]++;
 
         //for(int i = 0;i<n;i++)cout<<cmp[i]<<" ";
