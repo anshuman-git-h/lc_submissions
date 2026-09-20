@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0134-gas-station](https://github.com/anshuman-git-h/lc_submissions/tree/main/0134-gas-station/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/anshuman-git-h/lc_submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0835-image-overlap](https://github.com/anshuman-git-h/lc_submissions/tree/main/0835-image-overlap/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/anshuman-git-h/lc_submissions/tree/main/0134-gas-station/) | Medium |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshuman-git-h/lc_submissions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
