@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshuman-git-h/lc_submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshuman-git-h/lc_submissions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3640-trionic-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3640-trionic-array-ii/) | Hard |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshuman-git-h/lc_submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/3578-count-partitions-with-max-min-difference-at-most-k/) | Medium |
 | [3640-trionic-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3640-trionic-array-ii/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/anshuman-git-h/lc_submissions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/anshuman-git-h/lc_submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshuman-git-h/lc_submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuman-git-h/lc_submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anshuman-git-h/lc_submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
