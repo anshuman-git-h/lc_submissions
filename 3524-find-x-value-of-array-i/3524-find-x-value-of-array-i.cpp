@@ -4,14 +4,11 @@ public:
         int n = nums.size();
         vector<vector<int>> ans(n,vector<int>(k,0));
         
-        for(int i = 0;i<n;i++)
-        {
-            nums[i] = nums[i]%k;
-           // if(i)nums[i] = (nums[i]*nums[i-1]) % k;
-        }
+        
 
         for(int i = 0;i<n;i++)
         {
+            nums[i] = nums[i]%k;
             ans[i][nums[i] % k]++;
             if(i == 0)continue;
             for(int j = 0;j<k;j++)
