@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/anshuman-git-h/lc_submissions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1035-uncrossed-lines](https://github.com/anshuman-git-h/lc_submissions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/anshuman-git-h/lc_submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/anshuman-git-h/lc_submissions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
+| [1035-uncrossed-lines](https://github.com/anshuman-git-h/lc_submissions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/anshuman-git-h/lc_submissions/tree/main/1411-number-of-ways-to-paint-n-3-grid/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshuman-git-h/lc_submissions/tree/main/2435-paths-in-matrix-whose-sum-is-divisible-by-k/) | Hard |
@@ -296,4 +298,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshuman-git-h/lc_submissions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1035-uncrossed-lines](https://github.com/anshuman-git-h/lc_submissions/tree/main/1035-uncrossed-lines/) | Medium |
 <!---LeetCode Topics End-->
