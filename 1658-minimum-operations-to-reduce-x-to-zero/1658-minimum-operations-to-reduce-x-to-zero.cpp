@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
-        map<int,int> mp;//suffix sum and index
+        unordered_map<int,int> mp;//suffix sum and index
         int sm = 0;
         int n = nums.size();
         bool ok = false;
