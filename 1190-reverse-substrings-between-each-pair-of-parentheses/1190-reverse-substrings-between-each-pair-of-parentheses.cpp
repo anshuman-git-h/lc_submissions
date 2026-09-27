@@ -1,7 +1,7 @@
 class Solution {
 public:
     string reverseParentheses(string s) {
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         int n = s.size();
         vector<int> v1;
         for(int i = 0;i<n;i++)
@@ -19,7 +19,7 @@ public:
         int dir = 1;
         n = s.size();
         string st = "";
-        for(auto it: mp)cout<<it.first<<" "<<it.second<<endl;
+        //for(auto it: mp)cout<<it.first<<" "<<it.second<<endl;
         for(int i = 0;i<n;i+=dir)
         {
             if(s[i]!=')' && s[i] != '('){
