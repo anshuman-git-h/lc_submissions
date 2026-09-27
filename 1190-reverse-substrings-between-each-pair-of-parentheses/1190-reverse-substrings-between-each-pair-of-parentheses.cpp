@@ -1,29 +1,36 @@
 class Solution {
 public:
-    string reverseParentheses(auto& s) {
+    string reverseParentheses(string s) {
+        map<int,int> mp;
         int n = s.size();
-        vector<int> link(n), stk;
-
-        for (int i = 0; i < n; i++) {
-            if (s[i] == '(')
-                stk.push_back(i);
-            else if (s[i] == ')') {
-                link[i] = stk.back();
-                link[link[i]] = i;
-                stk.pop_back();
+        vector<int> v1;
+        for(int i = 0;i<n;i++)
+        {
+            if(s[i] == '(')v1.push_back(i);
+            if(s[i] == ')'){
+                int l = v1[v1.size() - 1];
+                v1.pop_back();
+                mp[l] = i;
+                mp[i] = l;
             }
         }
+        
 
-        string res;
-        for (int i = 0, dir = 1; i < n; i += dir) {
-            if (s[i] >= 'a')
-                res += s[i];
-            else {
-                i = link[i];
+        int dir = 1;
+        n = s.size();
+        string st = "";
+        for(auto it: mp)cout<<it.first<<" "<<it.second<<endl;
+        for(int i = 0;i<n;i+=dir)
+        {
+            if(s[i]!=')' && s[i] != '('){
+                st+=s[i];
+            }
+            else
+            {
                 dir = -dir;
+                i = mp[i];
             }
         }
-
-        return res;
+        return st;
     }
 };
