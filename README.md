@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/anshuman-git-h/lc_submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/anshuman-git-h/lc_submissions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/anshuman-git-h/lc_submissions/tree/main/0960-delete-columns-to-make-sorted-iii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshuman-git-h/lc_submissions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshuman-git-h/lc_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshuman-git-h/lc_submissions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuman-git-h/lc_submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/anshuman-git-h/lc_submissions/tree/main/0042-trapping-rain-water/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshuman-git-h/lc_submissions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshuman-git-h/lc_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuman-git-h/lc_submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshuman-git-h/lc_submissions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshuman-git-h/lc_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuman-git-h/lc_submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
