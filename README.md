@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshuman-git-h/lc_submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/anshuman-git-h/lc_submissions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshuman-git-h/lc_submissions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/anshuman-git-h/lc_submissions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/anshuman-git-h/lc_submissions/tree/main/0857-minimum-cost-to-hire-k-workers/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshuman-git-h/lc_submissions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2421-number-of-good-paths](https://github.com/anshuman-git-h/lc_submissions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshuman-git-h/lc_submissions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshuman-git-h/lc_submissions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/anshuman-git-h/lc_submissions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshuman-git-h/lc_submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshuman-git-h/lc_submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/anshuman-git-h/lc_submissions/tree/main/3186-maximum-total-damage-with-spell-casting/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshuman-git-h/lc_submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshuman-git-h/lc_submissions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
